@@ -10,6 +10,8 @@
 
     printf("Hello world, Im Andrew Marshall!\n");
     printf("Im a Computer Science Major\n");
+    printf("Christian Payne\n");
+    printf("Computer Science\n");
 
     return 0;
  }
